@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588481633805",
+    "project_id": "dblproject-8da75",
+    "storage_bucket": "dblproject-8da75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588481633805:android:75382dd4e6f836d75bff44",
+        "android_client_info": {
+          "package_name": "com.example.dlmproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjYngX7owja9UcmPcfCaclpsw_zQQaX7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

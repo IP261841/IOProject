@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">DLMproject</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <string-array name="gender_options">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+</resources>
